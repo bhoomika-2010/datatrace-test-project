@@ -1,1 +1,3 @@
-
+python_version: "3.11"
+entrypoint: "train.py"
+requirements: "requirements.txt"
